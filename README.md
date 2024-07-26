@@ -1,6 +1,6 @@
-# Hi there, I'm [Try](https://trywijono.com) 👋 
+# Hi there, I'm [Try](https://www.trywijono.com) 👋 
 
-[![Website](https://img.shields.io/website?label=Try%27s%20Website&style=for-the-badge&up_message=online&url=https%3A%2F%2Fbit.ly%2Ftry-wijono)](https://bit.ly/try-wijono)
+[![Website](https://img.shields.io/website?label=Try%27s%20Website&style=for-the-badge&up_message=online&url=https://www.trywijono.com)](https://www.trywijono.com)
 
 
 ## I'm a Husband and Engineer!
